@@ -230,7 +230,7 @@ lang_dict = {
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
-        MainWindow.setObjectName("Trans.Rename Bulk")
+        MainWindow.setObjectName("Translate.Rename Bulk")
         MainWindow.resize(581, 648)
         MainWindow.setMinimumSize(QtCore.QSize(581, 648))
         MainWindow.setMaximumSize(QtCore.QSize(581, 648))
