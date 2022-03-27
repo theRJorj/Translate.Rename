@@ -1,3 +1,5 @@
+<head><meta name="google-site-verification" content="SIA-Rv7tbS21BJ7qBrJNgnbswDQqy1Cfn2cBtKbOjzA" /></head>
+
 # Translate.Rename
 Bulk file rename app
 
@@ -22,4 +24,3 @@ I am not responsible for any damage to your files. use it at your own risk.
 
 DOWNLOAD EXE: https://sourceforge.net/projects/trans-rename/
 
-<meta name="google-site-verification" content="SIA-Rv7tbS21BJ7qBrJNgnbswDQqy1Cfn2cBtKbOjzA" />
