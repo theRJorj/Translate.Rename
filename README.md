@@ -1,4 +1,4 @@
-<head><meta name="google-site-verification" content="SIA-Rv7tbS21BJ7qBrJNgnbswDQqy1Cfn2cBtKbOjzA" /></head>
+
 
 # Translate.Rename
 Bulk file rename app
