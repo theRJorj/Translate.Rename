@@ -22,4 +22,3 @@ I am not responsible for any damage to your files. use it at your own risk.
 
 DOWNLOAD EXE: https://sourceforge.net/projects/trans-rename/
 
-google606a14171d2eb960.html
